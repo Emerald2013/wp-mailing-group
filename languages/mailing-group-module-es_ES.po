@@ -1,0 +1,1058 @@
+# English translations for PACKAGE package.
+# Copyright (C) 2012 THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# Automatically generated, 2012.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: mailing-group-module 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-11-11 21:33-0400\n"
+"PO-Revision-Date: 2015-10-10 18:01+0530\n"
+"Last-Translator: sanford <sanford@123789.org>\n"
+"Language-Team: nfl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"X-Poedit-SourceCharset: iso-8859-1\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.7.5\n"
+"Language: es_ES\n"
+"X-Poedit-KeywordsList: _e;__\n"
+
+#: mg_mailinggrouplist.php:10 (this is a note line)
+msgid "Mailing group has been deleted successfully."
+msgstr "Grupo de correo se ha eliminado correctamente."
+
+#: mg_mailinggrouplist.php:26
+msgid "Mailing Group Manager"
+msgstr "Grupo de Correo Manager"
+
+#: mg_mailinggrouplist.php:30
+msgid "Group Name"
+msgstr "Nombre del grupo"
+
+#: mg_mailinggrouplist.php:31
+msgid "Email Address"
+msgstr "Dirección de correo electrónico"
+
+#: mg_mailinggrouplist.php:31
+msgid "Please enter name."
+msgstr "Introduzca el nombre."
+
+msgid "Actions"
+msgstr "Acciones"
+
+msgid "General Settings"
+msgstr "Configuración General"
+
+msgid "Member Manager"
+msgstr "Administrador Miembros"
+
+msgid "Add Member"
+msgstr "Agregar un miembro"
+
+msgid "Subscription Requests"
+msgstr "Las solicitudes de suscripción"
+
+msgid "Add Subscription Request"
+msgstr "Agregar solicitud de suscripción"
+
+msgid "Send Message"
+msgstr "Enviar Mensaje"
+
+msgid "Messages Manager"
+msgstr "Administrador Mensajes"
+
+msgid "Messages Editor"
+msgstr "Editor Mensajes"
+
+msgid "Add Message"
+msgstr "Añadir mensaje"
+
+msgid "Add Admin Message"
+msgstr "Añadir mensaje del administrador"
+
+msgid "Import User"
+msgstr "Importar Usuario"
+
+msgid "View Message"
+msgstr "Ver mensaje"
+
+msgid "Style Manager"
+msgstr "Gestor de estilos"
+
+msgid "Contact Info"
+msgstr "Información de contacto"
+
+msgid "Help"
+msgstr "Ayuda"
+
+msgid "Quick Start"
+msgstr "Inicio Rápido"
+
+msgid "For a quick start guide in just six steps, please refer to the FAQ here:"
+msgstr "Para una guía de inicio rápido en sólo seis pasos, consulte la FAQ aquí:"
+
+msgid "Style settings can be done from Mailing Group Manager -> General Settings -> Stylesheet"
+msgstr "Los ajustes de estilo se puede hacer desde el Administrador de correo Grupo -> Configuración general -> Hoja de estilo"
+
+msgid "Registration Form Shortcode"
+msgstr "Formulario de inscripción Shortcode"
+
+msgid "Insert the following registration form shortcode on a page or widget on your website to allow users to subscribe:"
+msgstr "Inserte el siguiente formulario de inscripción código corto en una página o widget en su sitio web para permitir a los usuarios suscribirse:"
+
+msgid "There is more information on attributes that can be used in the Shortcode here:"
+msgstr "Hay más información sobre los atributos que se puede utilizar en el Shortcode aquí:"
+
+msgid "Cron Scripts / Scheduled Tasks"
+msgstr "Scripts Cron / Tareas programadas"
+
+msgid "Overview"
+msgstr "Información general"
+
+msgid "This plugin automatically runs every time a visitor comes to your website, through an automatic call to the in-built WordPress Cron Manager (wp-cron). This will trigger the email box specified for the Mailing Group to be checked for new messages, for queued messages to be sent on to all registered members, and for any bounced messages to be checked."
+msgstr "Este plugin se ejecuta automáticamente cada vez que un visitante llega a su sitio web, a través de una llamada automática al WordPress Cron Manager-integrado (wp-cron). Esto hará que la casilla de correo electrónico especificada para el Grupo de Correo para comprobar si hay nuevos mensajes, los mensajes en cola para ser enviado a todos los miembros registrados, y para cualquier mensajes que deben ser controlados rebotado."
+
+msgid "If you have visitors coming to your site every few minutes on average, this should be sufficient for the plugin to run smoothly, with the sending and receiving of Mailing Group messages. If, however, you have a lower traffic website, the plugin will benefit from you setting up a Cron Manager / Scheduled Task call via the control panel on your web server."
+msgstr "Si usted no tiene acceso a la configuración de tarea Cron / programadas en su servidor web, el plugin seguirá funcionando, pero los mensajes de correo electrónico sólo será recibido y enviado en cuando su sitio web es visitado. No tiene que ser un usuario registrado o registrado: cualquier visitante que carga cualquier página del sitio que contiene código de WordPress es suficiente."
+
+msgid "Settings"
+msgstr "Ajustes"
+
+msgid "(This step is not necessary on high traffic websites, with visitors every couple of minutes or more often.)"
+msgstr "(Este paso no es necesario en los sitios web de alto tráfico, con los visitantes cada par de minutos o más a menudo.)"
+
+msgid "In the Cron Manager on your website, locate the Command field, and paste the line below making sure you change www.yoursite.com to the WordPress installation on your own web server:"
+msgstr "En el Administrador de Cron en su página web, busque el campo Comando, y pegar la línea de abajo asegurándose de que cambie www.yoursite.com a la instalación de WordPress en su propio servidor web:"
+
+msgid "On some systems, you may need to use a curl function instead:"
+msgstr "En algunos sistemas, puede que tenga que utilizar una función rizo en su lugar:"
+
+msgid "Further information:"
+msgstr "Más información:"
+
+msgid "For more information on how to set up the crons on your server, please refer to the documentation below for your control panel type:"
+msgstr "Para obtener más información sobre cómo configurar los crons en su servidor, consulte la documentación a continuación para su tipo de panel de control:"
+
+msgid "From"
+msgstr "Desde"
+
+msgid "for Advanced Users"
+msgstr "para usuarios avanzados"
+
+msgid "Upgrading to Premium version"
+msgstr "La actualización a la versión premium"
+
+msgid "Upgrading to the Premium plugin version adds many extra benefits. You can host unlimited Mailing Groups on your WordPress installation, keep searchable Archives of the messages, find messages by the individual member who posted them, and import members from external .VCF files."
+msgstr "La actualización a la versión plugin premium agrega muchos beneficios adicionales. Puede alojar grupos de correo ilimitadas en su instalación de WordPress, mantenga búsqueda de archivos entre los mensajes, encontrará los mensajes por el miembro individual que los publicaron, y miembros de importación de archivos .VCF externos."
+
+msgid "To upgrade, please deactivate and delete the Free plugin. Do not worry about your existing Mailing Group settings: all the data will be saved - only the unnecessary Free plugin files will be deleted. After uploading the Premium plugin and activating it, your existing Mailing Group will be ready and waiting for you on the list!"
+msgstr "Para actualizar, por favor, desactivar y eliminar el plugin gratuito. No te preocupes por la configuración de grupo de correo existentes: todos los datos se guardarán - sólo se eliminarán los archivos de plugin gratuito innecesarios. Después de cargar el plugin Premium y de activarlo, el Grupo de Correo existente estará listo y esperando por usted en la lista!"
+
+msgid "Upgrade Now >"
+msgstr "Asciende Ahora >"
+
+msgid "Mailing Groups"
+msgstr "Grupos de Correo"
+
+msgid "Your Mailing Group can be added and configured below. Only one Mailing Group is available in this Free plugin. Just click 'Add New Mailing Group' to get started. The Premium plugin supports unlimited Mailing Groups for all your different group needs. Why not"
+msgstr "Su Grupo de Correo puede añadir y configurar a continuación. Sólo un correo de grupo está disponible en este plugin gratuito. Haz clic en 'Añadir nuevo grupo de Domicilio' para empezar. El plugin Premium soporta Grupos de correo ilimitadas para todas sus necesidades de grupos diferentes. Por qué no"
+
+msgid "upgrade now"
+msgstr "actualizar ahora"
+
+msgid "Update Message"
+msgstr "Mensaje de actualización"
+
+msgid "Submit"
+msgstr "Someter"
+
+msgid "^Back to top"
+msgstr "^Volver arriba"
+
+msgid "Introduction"
+msgstr "Introducción"
+
+msgid "The WP MailingGroup plugin allows you to run a Mailing Group, also known as a Listserv, right from your WordPress website. This means you can sign up your users, friends, neighbours, family and whoever else you want, directly from your WordPress administration area, and they can then all exchange emails via their favourite email software. This is a true Mailing Group, just like on Yahoo Groups or Google Groups, where there is an email address to send messages to, and everyone who is subscribed to the mailing group gets the message. They can then click Reply, and the whole list will receive their response."
+msgstr "El plugin WP MailingGroup le permite ejecutar un grupo de correo, también conocido como Listserv, directamente desde su sitio web de WordPress. Esto significa que puede inscribir a su usuarios, amigos, vecinos, familiares y cualquier otro que usted quiere, directamente desde su área de administración de WordPress, y que pueden entonces todos los correos electrónicos de intercambio a través de su software de correo favorito. Se trata de un verdadero grupo de correo, al igual que en los grupos de Yahoo o Google Groups, donde existe una dirección de correo electrónico para enviar mensajes a, y todo el que está suscrito al grupo de correo recibe el mensaje. A continuación, puede hacer clic en Responder, y toda la lista recibirán su respuesta."
+
+msgid "HOW GET STARTED? Check the FAQ here for a step-by-step tutorial:"
+msgstr "CÓMO EMPEZAR? Consulta las preguntas frecuentes aquí para un tutorial paso a paso:"
+
+msgid "You are using the FREE version of this plugin - enjoy! A Premium version is available with more features too. See"
+msgstr "Usted está utilizando la versión gratuita de este plugin - disfrutar! Una versión Premium está disponible con más funciones también. ver"
+
+msgid "for more."
+msgstr "por más."
+
+msgid "e.g. your-mail@example.com"
+msgstr "ej. tu-mail@ejemplo.com"
+
+msgid "Custom Messages"
+msgstr "Mensajes personalizados"
+
+msgid "When a user sends a request to join a mailing group, you can send them a customised response, for example if you would like more information from them before approving their request. Any custom messages you save when responding to a subscription request appear in the list below."
+msgstr "Cuando un usuario envía una solicitud para unirse a un grupo de correo, puede enviarles una respuesta personalizada, por ejemplo, si desea obtener más información de ellos antes de aprobar su solicitud. Todos los mensajes personalizados que guarde al responder a una solicitud de suscripción aparecen en la lista de abajo."
+
+msgid "Admin Messages"
+msgstr "Los mensajes del administrador"
+
+msgid "The following emails are sent out automatically by the plugin when the events described in the title column occur. You are welcome to customise the text according to your preference. The available dynamic variables are shown when you click to edit a message."
+msgstr "Los siguientes mensajes de correo electrónico se envían automáticamente por el plugin cuando se producen los eventos descritos en la columna del título. Usted es agradable modificar el texto de acuerdo con sus preferencias. Las variables dinámicas disponibles se muestran cuando hace clic para editar un mensaje."
+
+msgid "Edit"
+msgstr "Editar"
+
+msgid "Stylesheet"
+msgstr "Hoja de estilo"
+
+msgid "You can show a registration form for your mailing groups on your website by using this shortcode: [mailing_group_form] To customise its appearance, you may input your own CSS styles in the text area below, to override the default styling for each class."
+msgstr "Usted puede mostrar un formulario de registro para sus grupos de correo de su sitio web mediante el uso de este código abreviado: [mailing_group_form] Para personalizar su apariencia, puede introducir sus propios estilos CSS en el área de texto de abajo, para anular el estilo por defecto para cada clase."
+
+msgid "Contact"
+msgstr "Contacto"
+
+msgid "Add/Edit Message"
+msgstr "Agregar/Editar Mensaje"
+
+msgid "Back to Admin Messages"
+msgstr "Volver a los mensajes del administrador"
+
+msgid "Title"
+msgstr "Título"
+
+msgid "Subject"
+msgstr "Tema"
+
+msgid "Description"
+msgstr "Descripción"
+
+msgid "Available variables"
+msgstr "Variables disponibles"
+
+msgid "User's Display Name"
+msgstr "Nombre para mostrar del usuario"
+
+msgid "User's Name"
+msgstr "Nombre de Usuario"
+
+msgid "User's Email"
+msgstr "Correo electrónico del usuario"
+
+msgid "User's Password"
+msgstr "Contraseña de usuario"
+
+msgid "User's Activation URL"
+msgstr "URL de activación del usuario"
+
+msgid "User's Login URL"
+msgstr "URL de inicio de sesión del usuario"
+
+msgid "Site's Email"
+msgstr "Correo electrónico del sitio"
+
+msgid "Site's Title"
+msgstr "Título del sitio"
+
+msgid "Site's Web Address"
+msgstr "Dirección Web del sitio"
+
+msgid "Current Group List"
+msgstr "Lista de grupo actual"
+
+msgid "Current Group Name"
+msgstr "Nombre del grupo actual"
+
+msgid "Message has been added successfully."
+msgstr "Mensaje se ha agregado correctamente."
+
+msgid "Message has been updated successfully."
+msgstr "Mensaje se ha actualizado correctamente."
+
+msgid "Message has been set to visible successfully."
+msgstr "Mensaje ha sido configurada como visible con éxito."
+
+msgid "Message has been  set to hidden successfully."
+msgstr "Mensaje ha sido establecer como oculto con éxito."
+
+msgid "Message has been deleted successfully."
+msgstr "Mensaje se ha eliminado correctamente."
+
+msgid "New custom message"
+msgstr "Nuevo mensaje personalizado"
+
+msgid "Message"
+msgstr "Mensaje"
+
+msgid "Hidden/Visible"
+msgstr "Oculto/Visible"
+
+msgid "Visible"
+msgstr "Visible"
+
+msgid "Hidden"
+msgstr "Oculto"
+
+msgid "No Message Found!"
+msgstr "Se ha encontrado ningún mensaje!"
+
+msgid "Our Address"
+msgstr "Nuestra dirección"
+
+msgid "Support"
+msgstr "Apoyo"
+
+msgid "Override Form Style"
+msgstr "Estilo Formulario Anulación"
+
+msgid "Mailing Group Module Help (Version : %s)"
+msgstr "Grupo de Correo Ayuda del módulo (Versión: %s)"
+
+msgid "%1s out of %2s users have been imported successfully."
+msgstr "% 1S de % 2s los usuarios se han importado correctamente."
+
+msgid "Member(s) have been successfully added to selected groups."
+msgstr "Miembro(s) se han agregado correctamente a los grupos seleccionados."
+
+msgid "Subscription Request Manager"
+msgstr "Solicitud de Suscripción Manager"
+
+msgid "Any new subscriber requests submitted via your website, or via the Add New Subscriber panel, will appear below. You need to use the plugin’s shortcode to display the subscription request form on your website - see the Help tab in the General Settings for more information."
+msgstr "Nuevas solicitudes de abonados presentarse a través de su sitio web, o mediante el panel Añadir Suscriptor Nuevo, aparecerá a continuación. Es necesario utilizar código corto del plugin para mostrar el formulario de solicitud de suscripción en su página web - véase la ficha Ayuda en los ajustes generales para más información."
+
+msgid "Add New Subscriber"
+msgstr "Añadir nuevo suscriptor"
+
+msgid "Fill out the form below to add a subscriber to a mailing group."
+msgstr "Rellene el siguiente formulario para añadir un suscriptor a un grupo de correo."
+
+msgid "You will then need to activate their membership via the Subscription Request Manager."
+msgstr "A continuación, tendrá que activar su membresía a través de la Solicitud de suscripción Manager."
+
+msgid "They will then be sent an email to confirm that they are now a subscriber."
+msgstr "A continuación, se enviará un correo electrónico para confirmar que ahora son un suscriptor."
+
+msgid "NB: Please only add subscribers here if you have their permission already."
+msgstr "NB: Por favor, sólo añadir suscriptores aquí si tiene su permiso ya."
+
+msgid "Import Users"
+msgstr "Importar Usuarios"
+
+msgid "Back to Custom Messages"
+msgstr "Volver a Mensajes personalizados"
+
+msgid "Add Subscribers"
+msgstr "Añadir Suscriptores"
+
+msgid "Import Users from WordPress"
+msgstr "Importar usuarios de WordPress"
+
+msgid "Any users you import to a mailing group below will have their subscription activated immediately, without any opt-in confirmation sent to their email address. Please only import users as subscribers here if you have their permission already."
+msgstr "Cualquier usuario que importar a un grupo de correo a continuación tendrán su suscripción activa inmediatamente, sin ninguna cláusula de confirmación enviada a su dirección de correo electrónico. Por favor sólo importar usuarios como suscriptores aquí si tiene permiso ya."
+
+msgid "Name"
+msgstr "Nombre"
+
+msgid "There are currently no WordPress users available for import."
+msgstr "En la actualidad no hay WordPress los usuarios disponibles para la importación."
+
+msgid "Import Selected Users into:"
+msgstr "Importar Usuarios seleccionados:"
+
+msgid "Import from CSV file"
+msgstr "Importación de un archivo CSV"
+
+msgid "Browse CSV file"
+msgstr "Buscar archivo CSV"
+
+msgid "NB: The CSV file should be formatted as follows with no extra data, and each entry on a separate line:<br />Full Name, email@address.com"
+msgstr "NOTA: El archivo CSV debe tener el formato de la siguiente manera sin datos adicionales, y cada entrada en una línea separada:<br / >Nombre Completo, email@address.com"
+
+msgid "WordPress Mailing Group - v.%s"
+msgstr "Grupo de Correo WordPress - v. %s"
+
+msgid "Alert on new subscription"
+msgstr "Alerta en nueva suscripción"
+
+msgid "Subscription alert email"
+msgstr "Alerta por correo electrónico Suscripción"
+
+msgid "Email bounce alert"
+msgstr "Alerta correo electrónico rebote"
+
+msgid "No. of bounces prior to alert"
+msgstr "NO de rebota antes de alerta"
+
+msgid "Send bounce alert email to"
+msgstr "Enviar correo electrónico de alerta en rebote"
+
+msgid "Check Crons"
+msgstr "Verificar Crons"
+
+msgid "Update Mailing Group"
+msgstr "Grupo de Correo Actualización"
+
+msgid "Add Mailing Group"
+msgstr "Agregar grupo de correo"
+
+msgid "Add/Edit Mailing Group"
+msgstr "Agregar/Editar grupo de correo"
+
+msgid "Use name as prefix in email subject lines"
+msgstr "Utilice nombre como prefijo en las líneas de asunto del correo electrónico"
+
+msgid "Group Email Address"
+msgstr "Dirección de correo electrónico de grupo"
+
+msgid "Password"
+msgstr "Contraseña"
+
+msgid "POP Server"
+msgstr "Servidor POP"
+
+msgid "e.g. pop.mailserver.com"
+msgstr "Por ejemplo pop.mailserver.com"
+
+msgid "Port"
+msgstr "Puerto"
+
+msgid "SSL/Secure Connection"
+msgstr "SSL/Conexión segura"
+
+msgid "Username"
+msgstr "Usuario"
+
+msgid "e.g. smtp.mailserver.com"
+msgstr "Por ejemplo smtp.mailserver.com"
+
+msgid "Auto-delete old messages"
+msgstr "Eliminación automática de los mensajes antiguos"
+
+msgid "No"
+msgstr "Sin"
+
+msgid "Yes, after"
+msgstr "Sí, después"
+
+msgid "days"
+msgstr "Días"
+
+msgid "Footer text for emails"
+msgstr "Texto de pie de página para correos electrónicos"
+
+msgid "Settings for Subscription Request messages"
+msgstr "Configuración de mensajes de solicitud Suscripción"
+
+msgid "Sender name"
+msgstr "Nombre del remitente"
+
+msgid "Sender email"
+msgstr "Remitente de correo electrónico"
+
+msgid "Reply To"
+msgstr "Respuesta a"
+
+msgid "Mailing Group Status"
+msgstr "Grupo de Correo Estado"
+
+msgid "Status"
+msgstr "Estado"
+
+msgid "Active"
+msgstr "Activo"
+
+msgid "Visibility"
+msgstr "Visibilidad"
+
+msgid "Inactive"
+msgstr "\"Inactivo\""
+
+msgid "Public"
+msgstr "Público"
+
+msgid "Invitation"
+msgstr "Invitación"
+
+msgid "Private"
+msgstr "Privado"
+
+msgid "Approve"
+msgstr "Aprobar"
+
+msgid "Delete"
+msgstr "Eliminar"
+
+msgid "No new subscription requests"
+msgstr "No hay nuevas solicitudes de suscripción"
+
+msgid "Add Subscriber"
+msgstr "Agregar suscriptor"
+
+msgid "Email Format"
+msgstr "Formato de correo electrónico"
+
+msgid "Mailing Group(s)"
+msgstr "Grupo de Correo(s)"
+
+msgid "HTML"
+msgstr "HTML"
+
+msgid "Plain Text"
+msgstr "Texto sin formato"
+
+msgid "You can only add 20 member(s) per group, Please upgrade to paid version for more features."
+msgstr "Sólo puede agregar 20 miembro(s) por grupo, por favor, actualice a versiã³n de pago de más características."
+
+msgid "The username entered already exists in the system."
+msgstr "El nombre de usuario introducido ya existe en el sistema."
+
+msgid "The email entered already exists in the system."
+msgstr "El correo electrónico introducido ya existe en el sistema."
+
+msgid "Please enter username or email to proceed."
+msgstr "Introduzca el nombre de usuario o correo electrónico para proceder."
+
+msgid "Please enter username to proceed."
+msgstr "Introduzca el nombre de usuario para continuar."
+
+msgid "Member has been unsubcribed from the group."
+msgstr "Ha sido miembro del grupo unsubcribed."
+
+msgid "Please enter username to check."
+msgstr "Introduzca el nombre de usuario."
+
+msgid "Username is available."
+msgstr "Usuario está disponible."
+
+msgid "Username is not available, please try again."
+msgstr "Usuario no está disponible, por favor inténtelo de nuevo."
+
+msgid "No of Email Bounces"
+msgstr "No Rebotes de correo electrónico"
+
+msgid "click to put On Hold"
+msgstr "Haga clic en poner en espera"
+
+msgid "On Hold"
+msgstr "En Espera"
+
+msgid "click to Activate"
+msgstr "Haga clic para activar"
+
+msgid "Select Message"
+msgstr "Seleccione el mensaje"
+
+msgid "New Message"
+msgstr "Nuevo mensaje"
+
+msgid "Please click on below icons to manage the content."
+msgstr "Por favor, haga clic en iconos siguientes para administrar el contenido."
+
+msgid "User with email address already exists"
+msgstr "Usuario con una dirección de correo electrónico ya existe"
+
+msgid "Invalid captcha code, Please try again."
+msgstr "Código captcha no válida, por favor, inténtelo de nuevo."
+
+msgid "Dear Admin"
+msgstr "Estimado Admin"
+
+msgid "A user has exceeded the bounced email limit on %s! Here are the user details:"
+msgstr "Un usuario ha sobrepasado el límite correo electrónico rebotado en %s. Aquí están los detalles del usuario:"
+
+msgid "Username: %s"
+msgstr "Usuario: %s"
+
+msgid "Email Address: %s"
+msgstr "Dirección de correo electrónico: %s"
+
+msgid "Thank you!"
+msgstr "Muchas Gracias!"
+
+msgid "Choose Mailing Function"
+msgstr "Elegir Función Correo"
+
+msgid "WP Mail"
+msgstr "WP Correo Electrónico"
+
+msgid "SMTP Mail"
+msgstr "Correo electrónico SMTP"
+
+msgid "PHP Mail"
+msgstr "PHP correo"
+
+msgid "Dear Admin,"
+msgstr "Estimado Admin,"
+
+msgid "Premium Support"
+msgstr "Soporte Premium"
+
+msgid "Administrator Email Settings"
+msgstr "Configuración de administrador de correo electrónico"
+
+msgid "Add New Mailing Group"
+msgstr "Agregar nuevo correo de grupo"
+
+msgid "Your Mailing Group can be added and configured below. Only one Mailing Group is available in this Free plugin. Just click 'Add New Mailing Group' to get started. The Premium plugin supports unlimited Mailing Groups for all your different group needs. Why not <a href='%s' target='_blank'>upgrade now</a>?"
+msgstr "Su Grupo de Correo puede añadir y configurar a continuación. Sólo un correo de grupo está disponible en este plugin gratuito . Haz clic en \" Añadir nuevo grupo de Domicilio\" para empezar. El plugin Premium soporta Grupos de correo ilimitadas para todas sus necesidades de grupos diferentes. Por qué no <a href='%s' target='_blank'>actualizar ahora</a>?"
+
+msgid "Mailing Groups can be added and configured below. You can set up and configure as many as you wish in this Premium plugin version. Just click 'Add New Mailing Group' to get started."
+msgstr "Grupos de correo se pueden agregar y configurar a continuación. Puede instalar y configurar todas las que desee en esta versión plug-in Premium. Haz clic en \" Añadir nuevo grupo de Domicilio\" para empezar."
+
+msgid "Click 'Add New Mailing Group' to get started"
+msgstr "Haga clic en \" Añadir nuevo grupo de Domicilio\" para empezar"
+
+msgid "Default CSS used in Subscription Request forms"
+msgstr "Por defecto CSS utiliza en suscripción formularios de solicitud"
+
+msgid "You can show a registration form for your mailing groups on your website by using this shortcode:"
+msgstr "Usted puede mostrar un formulario de registro para sus grupos de correo de su sitio web mediante el uso de este código corto :"
+
+msgid "To customise its appearance, you may input your own CSS styles in the text area below, to override the default styling for each class."
+msgstr "Para personalizar su apariencia , puede introducir sus propios estilos CSS en el área de texto de abajo , para anular el estilo por defecto para cada clase."
+
+msgid "<i>WordPress Mailing Group</i> &rsaquo; Premium Support"
+msgstr "<i>WordPress Mailing Group</i> &rsaquo; Soporte Premium"
+
+msgid "If you encounter any problems with the installation or configuration of the WordPress Mailing Group Premium plugin, please visit"
+msgstr "Si tiene algún problema con la instalación o configuración del plugin de WordPress de correo Grupo Premium, por favor visite"
+
+msgid "and check the FAQ section."
+msgstr "y consulte la sección de preguntas frecuentes."
+
+msgid "If you should NOT find the answer to your question there, please visit:"
+msgstr "Si usted no debe encontrar la respuesta a tu pregunta allí, por favor visite :"
+
+msgid "and log your enquiry there, with as many details about the issue as you can provide."
+msgstr "y registrar su pregunta allí, con todos los detalles sobre el tema como usted puede proporcionar ."
+
+msgid "Please ensure you provide your plugin serial number in the Serial Number text field, so that support can be given, as the support ticket system is exclusively for Premium plugin users."
+msgstr "Por favor, asegúrese de proporcionar su número de serie del plugin en el campo de texto Número de serie , por lo que el apoyo se puede dar, ya que el sistema de ticket de soporte es exclusivamente para los usuarios de plugin premium ."
+
+msgid "We will get back to you as soon as possible."
+msgstr "Nos pondremos en contacto con usted tan pronto como sea posible."
+
+msgid "NB: Please ensure you have the latest version of the plugin installed."
+msgstr "NB : Por favor, asegúrese de tener la última versión del plugin instalado."
+
+msgid "Please click the Premium Support tab to gain access to the support ticket system which is reserved exclusively for Premium plugin users."
+msgstr "Por favor, haga clic en la pestaña Soporte Premium para poder acceder al sistema de ticket de soporte que está reservado exclusivamente para los usuarios de plugin premium ."
+
+msgid "Use Group Name as prefix in email subject lines"
+msgstr "Use Nombre del grupo como prefijo en las líneas de asunto de correo electrónico"
+
+msgid "Access Mailbox via"
+msgstr "De acceso al buzón a través de"
+
+msgid "Incoming Mail Server"
+msgstr "Servidor de correo entrante"
+
+msgid "Archive messages"
+msgstr "mensajes Archivo"
+
+msgid "Available Variables"
+msgstr "Variables disponibles"
+
+msgid "Name of the receiving member"
+msgstr "Nombre del miembro de recepción"
+
+msgid "Email of the receiving member"
+msgstr "Email del elemento receptor"
+
+msgid "Site's URL"
+msgstr "URL del Sitio"
+
+msgid "Message Archive page URL"
+msgstr "Mensaje página Archivo URL"
+
+msgid "NB: Message Archive in Premium version only"
+msgstr "NB : Archivo de mensajes en la versión Premium solamente"
+
+msgid "User profile URL"
+msgstr "Perfil de usuario URL"
+
+msgid "Unsubscribe URL"
+msgstr "URL Darse de baja"
+
+msgid "Please enter group name."
+msgstr "Por favor ingrese el nombre del grupo ."
+
+msgid "Cron Scripts / Scheduled Tasks your server"
+msgstr "Scripts Cron / Tareas Programadas su servidor"
+
+msgid "Overview:"
+msgstr "Visión De Conjunto:"
+
+msgid "If you do not have access to Cron / Scheduled Task settings on your web server, the plugin will still run, but email messages will only be received and sent on when your website is visited. It does not have to be a logged-in or registered user: ANY visitor who loads ANY page of the site that contains WordPress code is sufficient."
+msgstr "Si usted no tiene acceso a la configuración de tarea Cron / programadas en su servidor web , el plugin seguirá funcionando , pero los mensajes de correo electrónico sólo será recibido y enviado en cuando su sitio web es visitado . No tiene que ser un usuario registrado o registrado: cualquier visitante que carga cualquier página del sitio que contiene código de WordPress es suficiente."
+
+msgid "Settings:"
+msgstr "Ajustes:"
+
+msgid "This step is not necessary on high traffic websites, with visitors every couple of minutes or more often."
+msgstr "Este paso no es necesario en los sitios web de alto tráfico , con los visitantes cada par de minutos o más a menudo ."
+
+msgid "In the Cron Manager on your website, locate the Command field, and paste the line below making sure you change <em>www.yoursite.com</em> to the WordPress installation on your own web server:"
+msgstr "En el Administrador de Cron en su página web , busque el campo Comando, y pegar la línea de abajo asegurándose de que cambie < em> www.yoursite.com < / em > para la instalación de WordPress en su propio servidor web:"
+
+msgid "Access to Premium Support"
+msgstr "Acceso a Soporte Premium"
+
+msgid "Add/Edit Member"
+msgstr "Agregar / Editar miembro"
+
+msgid "To add a new Mailing Group subscriber, please fill in the form below. This will automatically create a basic user account on your WordPress site, which will enable the subscriber to log in and update their mailing preferences later on. They will not be able to make any changes to the rest of your website or settings."
+msgstr "Para agregar un nuevo suscriptor de correo de grupo , por favor, rellene el siguiente formulario . Esto creará automáticamente una cuenta de usuario básico en su sitio de WordPress , lo que permitirá que el abonado pueda ingresar y actualizar sus preferencias de correo más adelante. Ellos no podrán realizar ningún cambio en el resto de su sitio web o ajustes."
+
+msgid "If the user you wish to add already exists on your WordPress site, please use the Import User page to add them to your Mailing Group. You can also import a list of names and email addresses from a CSV file (and VCF for Premium plugin users), or create a Subscription Request to add a new user to multiple Mailing Groups at the same time (multiple Mailing Groups available in Premium plugin only)."
+msgstr "Si el usuario que desea agregar ya existe en su sitio de WordPress , por favor utilice la página de usuario Importar para agregarlos a su Grupo de Correo . También puede importar una lista de nombres y direcciones de correo electrónico desde un archivo CSV (y VCF para los usuarios de plugin premium ) , o crear una solicitud de suscripción para agregar un nuevo usuario a varios grupos de correo al mismo tiempo ( varios Grupos de correo disponibles en el plugin premium solamente) ."
+
+msgid "Auto-generate WordPress username"
+msgstr "Generación automática de WordPress nombre de usuario"
+
+msgid "Send opt-in confirmation link"
+msgstr "Enviar enlace de confirmación opt-in"
+
+msgid "Skip opt-in confirmation"
+msgstr "Saltar confirmación opt-in"
+
+msgid "NB: On Hold is the default status for new members until they confirm their subscription by clicking the opt-in link sent by email. To make a new member active immediately, select the `Skip opt-in confirmation` option above. Please ONLY do this if you have received permission from the new member, or you may be contravening laws on Unsolicited Email."
+msgstr "NB : En espera es el estado por defecto para los nuevos miembros hasta que confirman su suscripción haciendo clic en el opt-in enlace enviado por correo electrónico. Para hacer un nuevo miembro activo inmediatamente, seleccione el ` Saltar opt-in opción confirmation` arriba. Por favor SOLAMENTE hacer esto si ha recibido el permiso del nuevo miembro , o se le puede contravenir leyes sobre Correos electrónicos no solicitados ."
+
+msgid "NB: To unsubscribe a member from a Mailing Group, de-select the checkbox next to the group name and click Update Member."
+msgstr "NB : Para anular un miembro de un grupo de correo , de- seleccionar la casilla junto al nombre del grupo y haga clic en Actualizar miembros."
+
+msgid "Add New Member"
+msgstr "Añadir Nuevo Miembro"
+
+msgid "No members found."
+msgstr "No se encontraron usuarios ."
+
+msgid "View Archived Messages"
+msgstr "Ver mensajes archivados"
+
+msgid "Are you sure you want to delete this member?"
+msgstr "¿Seguro que quieres borrar este elemento ?"
+
+msgid "Back"
+msgstr "De Vuelta"
+
+msgid "Update Member"
+msgstr "actualización miembros"
+
+msgid "Email cannot be edited."
+msgstr "El correo electrónico no se puede editar ."
+
+msgid "Username cannot be edited."
+msgstr "Nombre de usuario no se puede editar ."
+
+msgid "Message Archive"
+msgstr "Archivo de mensajes"
+
+msgid "There are currently no messages in the archive."
+msgstr "Actualmente no hay mensajes en el archivo."
+
+msgid "Body"
+msgstr "cuerpo"
+
+msgid "Content"
+msgstr "contenido"
+
+msgid "Date"
+msgstr "fecha De"
+
+msgid "Are you sure you want to delete this message?"
+msgstr "Seguro que quieres borrar este mensaje?"
+
+msgid "Delete Selected"
+msgstr "eliminar Seleccionados"
+
+msgid "Import from VCF file (v3.0, v4.0)"
+msgstr "Importar desde archivo VCF ( v3.0 , v4.0)"
+
+msgid "Browse VCF file"
+msgstr "Explorar archivo VCF"
+
+msgid "NB: Only the name, full name, and email will be imported from the VCF file - please ensure your file contains them to avoid errors. Here is their typical format:"
+msgstr "Nota: Sólo el nombre , el nombre completo y correo electrónico será importada desde el archivo VCF - asegúrese de que su archivo de ellos contiene para evitar errores. Aquí está su formato típico :"
+
+msgid "Bulk actions"
+msgstr "acciones a granel"
+
+msgid "Approve Selected"
+msgstr "aprobar seleccionada"
+
+msgid "Reject Selected"
+msgstr "rechazar seleccionada"
+
+msgid "Apply"
+msgstr "aplicar"
+
+msgid "Mailing group has been updated successfully."
+msgstr "Grupo de correo se ha actualizado correctamente ."
+
+msgid "Message(s) has been deleted successfully."
+msgstr "Mensaje(s) se ha eliminado correctamente ."
+
+msgid "WP Mailing Group License Options"
+msgstr "WP correo Opciones de licencia de grupo"
+
+msgid "License Key"
+msgstr "clave de licencia"
+
+msgid "Enter your license key"
+msgstr "Introduzca su clave de licencia"
+
+msgid "Activate License"
+msgstr "activar licencia"
+
+msgid "active"
+msgstr "activo"
+
+msgid "License"
+msgstr "licencia"
+
+msgid "No file selected, Please try again.."
+msgstr "Ningún archivo seleccionado, por favor intente de nuevo .."
+
+msgid "File cannot be uploaded correctly, Please try again.."
+msgstr "El archivo no se puede cargar correctamente, por favor intente de nuevo .."
+
+msgid "No records found in the file, Please try again.."
+msgstr "No se encuentran en el archivo de registros , por favor intente de nuevo .."
+
+msgid "e.g. My Group Name"
+msgstr "por ejemplo Mi Nombre de Grupo"
+
+msgid "Please select email group."
+msgstr "Por favor, seleccione el grupo de correo electrónico."
+
+msgid "Please enter email address."
+msgstr "Por favor, introduzca la dirección de correo electrónico."
+
+msgid "Please enter valid email address."
+msgstr "Por favor, introduzca la dirección de correo electrónico válida."
+
+msgid "Please enter password."
+msgstr "Por favor, ingrese contraseña."
+
+msgid "Please enter POP server."
+msgstr "Por favor ingrese servidor POP ."
+
+msgid "Please enter POP username."
+msgstr "Por favor ingrese POP nombre de usuario."
+
+msgid "Please enter POP password."
+msgstr "Por favor, introduzca la contraseña POP ."
+
+msgid "Please enter SMTP server."
+msgstr "Por favor, introduzca el servidor SMTP ."
+
+msgid "Please enter SMTP port."
+msgstr "Por favor, ingrese el puerto SMTP ."
+
+msgid "Please enter smtp username."
+msgstr "Por favor, introduzca nombre de usuario smtp ."
+
+msgid "Please enter smtp password."
+msgstr "Por favor, introduzca la contraseña SMTP ."
+
+msgid "Please enter valid number of days."
+msgstr "Por favor, ingrese el número válido de días."
+
+msgid "Please enter number of days for auto-deletion."
+msgstr "Por favor, introduzca el número de días para la auto- eliminación."
+
+msgid "e.g. Mailing Group Name Administrator"
+msgstr "por ejemplo Mailing Administrador Nombre del grupo"
+
+msgid "Please enter sender name."
+msgstr "Por favor ingrese el nombre del remitente ."
+
+msgid "Please enter sender email."
+msgstr "Por favor escriba el correo electrónico del remitente."
+
+msgid "Mailing group already exists."
+msgstr "Grupo de Correo ya existe."
+
+msgid "Mailing group has been added successfully."
+msgstr "Grupo de correo ha sido agregado con éxito ."
+
+msgid "You can only add one mailing group per domain, Please upgrade to Paid version for more features."
+msgstr "Sólo puede agregar un grupo de correo por dominio , por favor actualice a la versión de pago para más características."
+
+msgid "Subscription request has been approved successfully."
+msgstr "Solicitud de suscripción ha sido aprobado con éxito ."
+
+msgid "Subscription request has been updated successfully."
+msgstr "Solicitud de suscripción se ha actualizado correctamente ."
+
+msgid "Subscription request was already registered, groups updated successfully."
+msgstr "Solicitud de suscripción ya estaba registrado , grupos actualizado correctamente ."
+
+msgid "Subscription request has been rejected successfully."
+msgstr "Solicitud de suscripción ha sido rechazada con éxito ."
+
+msgid "Subscription request has been deleted successfully."
+msgstr "Solicitud de suscripción se ha eliminado correctamente ."
+
+msgid "Subscription request has been added successfully. Now approve the request to activate the membership."
+msgstr "Solicitud de suscripción ha sido agregado con éxito . Ahora aprobar la solicitud para activar la membresía."
+
+msgid "Subscription request(s) has been added successfully."
+msgstr "Solicitud de suscripción ( s ) se ha añadido con éxito ."
+
+msgid "Subscription request(s) has been rejected successfully."
+msgstr "Solicitud de suscripción ( s ) ha sido rechazada con éxito ."
+
+msgid "Select Group to sort"
+msgstr "Seleccione Grupo para ordenar"
+
+msgid "All Group(s)"
+msgstr "Todo Grupo ( s )"
+
+msgid "You have succesfully updated your groups settings."
+msgstr "Ha actualizado con éxito la configuración de grupos ."
+
+msgid "Update Group Subscribed"
+msgstr "Actualización Grupo Suscrito"
+
+msgid "If you would like to unsubscribe from a mailing group, please uncheck the box next to its name, and click Update."
+msgstr "Si desea darse de baja de un grupo de correo, por favor desmarque la casilla junto a su nombre y haga clic en Actualizar."
+
+msgid "Mailing Group Name"
+msgstr "Correo Nombre del grupo"
+
+msgid "Subscription Status"
+msgstr "Status Suscripción"
+
+msgid "Unsubscribe from this group"
+msgstr "Darse de baja de este grupo"
+
+msgid "Message has been sent to user successfully."
+msgstr "El mensaje ha sido enviado al usuario correctamente ."
+
+msgid "User with email address already exists, please contact administrator for more info."
+msgstr "El usuario con la dirección de correo electrónico ya existe , por favor póngase en contacto con el administrador para obtener más información ."
+
+msgid "You are successfully registered for the group(s) selected."
+msgstr "Usted está registrado con éxito para el grupo ( s ) seleccionado."
+
+msgid "No group available"
+msgstr "Ningún grupo disponibles"
+
+msgid "Captcha"
+msgstr "Captcha"
+
+msgid "Subscribe"
+msgstr "suscribir"
+
+msgid "View Members"
+msgstr "Ver miembros"
+
+msgid "Are you sure you want to delete this group?"
+msgstr "¿Seguro que quieres borrar este grupo?"
+
+msgid "Search"
+msgstr "Buscar"
+
+msgid "Sender"
+msgstr "remitente"
+
+msgid "Group"
+msgstr "Grupo"
+
+msgid "Show"
+msgstr "mostrar"
+
+msgid "entries"
+msgstr "entradas"
+
+msgid "Next"
+msgstr "Siguiente"
+
+msgid "Prev"
+msgstr "Anterior"
+
+msgid "To"
+msgstr "A"
+
+msgid "Moderation"
+msgstr "moderación"
+
+msgid "Message Moderation"
+msgstr "La moderación Mensaje"
+
+msgid "ON"
+msgstr "EN"
+
+msgid "OFF"
+msgstr "APAGADO"
+
+msgid "All Members"
+msgstr "Todos los miembros"
+
+msgid "New Members"
+msgstr "Nuevos miembros"
+
+msgid "Specific Members"
+msgstr "Miembros específicos"
+
+msgid "Specific Text"
+msgstr "texto específico"
+
+msgid "Send moderation alert emails"
+msgstr "Enviar mensajes de correo electrónico de alerta moderación"
+
+msgid "Moderator email address"
+msgstr "Dirección de correo electrónico Moderador"
+
+msgid "Attachments"
+msgstr "Adjuntos"
+
+msgid "Save Attachments"
+msgstr "Guardar archivos adjuntos"
+
+msgid "NB: To ensure attachments (images, documents, etc.) sent via WP Mailing Group are transmitted correctly, it is necessary to save them in the server database. Please use the settings below to customise this. If it is NOT enabled, attachment functionality cannot be guaranteed."
+msgstr "NB : Para garantizar adjuntos (imágenes , documentos , etc.) enviados a través de correo WP Grupo se transmiten correctamente, es necesario guardarlos en la base de datos del servidor . Utilice la configuración siguiente para personalizar esto. Si NO está activado , la funcionalidad accesorio no puede ser garantizada."
+
+msgid "Auto-delete old attachments"
+msgstr "Auto - borrar archivos adjuntos antiguas"
+
+msgid "Auto-delete large attachments"
+msgstr "Auto -delete adjuntos de gran tamaño"
+
+msgid "NB: If this option is activated, attachments over the specified size will automatically be deleted. The message will be sent to the list without the attachment, with a notice that an attachment was deleted due to size limits."
+msgstr "NB : Si se activa esta opción , se eliminarán automáticamente los archivos adjuntos más el tamaño especificado . El mensaje será enviado a la lista sin el archivo adjunto, con un aviso de que un archivo adjunto se ha eliminado debido a límites de tamaño ."
+
+msgid "Yes, over"
+msgstr "Sí , a lo largo"
+
+msgid "Archive"
+msgstr "Archivo"
+
+msgid "Footer"
+msgstr "pie de página"
+
+msgid "User/Pass Required?"
+msgstr "Usuario / Pase Requerido ?"
+
+msgid "Test email connection"
+msgstr "Conexión de correo electrónico de prueba"
+
+msgid "Moderate their messages for"
+msgstr "Moderado sus mensajes para"
+
+msgid "and then automatically approve"
+msgstr "y luego aprobar automáticamente"
+
+msgid "Moderate messages that contain these words"
+msgstr "Mensajes moderados que contienen estas palabras"
+
+msgid "one word or phrase per line"
+msgstr "una palabra o frase por línea"
+
+msgid "Import"
+msgstr "importación"
